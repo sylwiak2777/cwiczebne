@@ -2,6 +2,7 @@
 #wykorzystanie importu i pętli, praca na listach składających się z stringów
 import os
 import shutil
+
 #listaPlikow = os.listdir('.' )
 #print(listaPlikow)
 #nazwa pliku
